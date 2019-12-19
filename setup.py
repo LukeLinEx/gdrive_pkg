@@ -6,6 +6,7 @@ setup(
     include_package_data=True,
     install_requires=[
         "google_auth_oauthlib",
-        "google-api-python-client"
+        "google-api-python-client",
+        "pyyaml"
     ]
 )
